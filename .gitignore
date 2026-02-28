@@ -1,0 +1,16 @@
+# ANSYS files
+*.cas
+*.dat
+*.trn
+*.h5
+*.out
+*.log
+*.jou
+*.cgns
+*.msh
+
+# Python cache
+__pycache__/
+
+# Environments
+.env/
