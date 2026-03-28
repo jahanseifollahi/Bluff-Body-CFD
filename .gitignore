@@ -10,6 +10,7 @@
 *.msh
 *_files
 *.wbpj
+*.json
 cleanup-fluent-*.bat
 
 # Python cache
