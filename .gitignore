@@ -8,6 +8,9 @@
 *.jou
 *.cgns
 *.msh
+*_files
+*.wbpj
+cleanup-fluent-*.bat
 
 # Python cache
 __pycache__/
