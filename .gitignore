@@ -12,6 +12,7 @@
 *.wbpj
 *.json
 cleanup-fluent-*.bat
+*_files.backup
 
 # Python cache
 __pycache__/
