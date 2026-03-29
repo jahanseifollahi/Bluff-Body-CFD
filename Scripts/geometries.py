@@ -7,7 +7,7 @@ from ansys.geometry.core.misc import UNITS
 #cyl_sketch=pygeo.Sketch()
 
 units=UNITS.m
-D = 0.01 # Diameter of Cylinder
+D = 0.1 # Diameter of Cylinder
 L_upstream = D*20
 L_downstream = D*40
 H = 35*D
