@@ -73,8 +73,7 @@ Phases 3 and 4 are repeated for each bluff body geometry.
 - [x] Phase 1 — Geometry construction (wake zone and no wake zone models)
 - [x] Phase 1 — Steady state preliminary run (U99% boundary layer validation)
 - [x] Phase 1 — Transient St number validation run
-- [ ] Phase 1 — Mesh independence study
-- [ ] Phase 2 — Turbulent cylinder validation
+- [x] Phase 2 — Turbulent cylinder validation and mesh independence
 - [ ] Phase 3 — Diamond and V-gutter geometry
 - [ ] Phase 4 — Reactive flow
 
