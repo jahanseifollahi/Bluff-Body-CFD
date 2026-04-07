@@ -41,8 +41,8 @@ Validation follows an incremental confidence-building chain before applying the 
 
 | Phase | Re | Geometry | Physics | Purpose |
 |-------|----|----------|---------|---------|
-| 1 | 200 | Cylinder | Laminar | Validate workflow, mesh, BCs |
-| 2 | Operating | Cylinder | Turbulent | Validate turbulence model, wall treatment |
+| 1 | 200 | Cylinder | Laminar | Validate workflow, BCs |
+| 2 | Operating | Cylinder | Turbulent | Validate turbulence model, mesh, wall treatment |
 | 3 | Operating | Target shapes | Turbulent | Apply validated methodology |
 | 4 | Operating | Target shapes | Reactive | Flame stabilization analysis |
 
